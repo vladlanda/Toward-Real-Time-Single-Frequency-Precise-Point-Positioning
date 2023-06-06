@@ -1,0 +1,27 @@
+{
+  "-input:obs":"",
+  "-input:orb":"",
+  "-input:clk":"",
+  "-input:inx":"",
+  
+  "--pre:eclipse":"",
+  "-pre:cs:l1c1":"",
+  "--pre:cs:bw":"",
+  "--pre:cs:li":"",
+  "-pre:smooth":"100",
+  "-pre:smoothMeas":"1 L1P",
+  
+  "-model:brdctranstime":"",
+  "--model:satphasecenter":"",
+  "--model:recphasecenter":"",
+  "--model:arp":"",
+  "-model:trop:nominal":"UNB3",
+  "-model:trop:mapping":"Simple",
+  
+  "--filter:trop":"",
+  "-filter:nav":"kinematic",
+  "-filter:select":"2 C1C L1P",
+  "--filter:maxgdop":"",
+  
+  "-output:file":""
+}

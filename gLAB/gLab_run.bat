@@ -1,0 +1,1 @@
+gLAB.exe -input:cfg .\tmp_config.cfg
