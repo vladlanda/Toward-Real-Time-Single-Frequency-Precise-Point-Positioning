@@ -1,6 +1,6 @@
 
 
-## Genrating TEC maps
+## Genrating TEC RMS maps
 
 1. Use "DMD_RMS_TEC.ipynb" to download the relevant ionex files, for various agencies (WHU) into "ionex..." folders
 3. Run "DMD_RMS_TEC.ipync" file in order to generate DMD RMS TEC predictions (at code section :"RUNNING" change the "
